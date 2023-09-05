@@ -18,6 +18,6 @@ public class HelloWorldApplication {
 
     @GetMapping("/welcome")
     public String sayHello() {
-        return String.format("Welcome RELEASEX");
+        return String.format("Welcome RELEASEX - JAVA APPLICATION 03");
     }
 }
